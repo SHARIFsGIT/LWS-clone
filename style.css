@@ -248,6 +248,7 @@ ul {
   color: whitesmoke !important;
   border: 1px solid gray;
   transition: 0.25s ease-in-out;
+  cursor: pointer;
 }
 .modules .container .modules-wrapper .modules-main-content .modules-content .modules-content-scroller .modules-content-item .module-item-content .item-ds {
   font-size: 15px;
